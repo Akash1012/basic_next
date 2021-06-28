@@ -6,6 +6,8 @@ const ClientsPage = () => {
     { id: "100", name: "Akash" },
     { id: "200", name: "Gupta" },
   ];
+
+  //   href={`/clients/${client.id}`}
   return (
     <div>
       <h1>The ClientsPage Page</h1>
